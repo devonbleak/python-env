@@ -1,4 +1,4 @@
-# A simple Python app
+# A simpler Python app
 
 ## Local development
 
